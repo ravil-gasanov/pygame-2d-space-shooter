@@ -10,6 +10,4 @@
 2. Press spacebar to shoot
 3. Press escape to quit
 
-The game is best enjoyed on a 16:9 display, full screen.
-
 ![screenshot](screenshot.png)
