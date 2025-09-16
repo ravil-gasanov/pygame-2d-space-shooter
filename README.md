@@ -1,11 +1,15 @@
-A simple 2D space shooter using pygame.
+# A retro 2D space shooter built with pygame.
 
-To play:
-1. Download the project
-2. Install pygame
-3. Go to 'project_folder/src'
-4. Run 'python main.py' in the command line.
+## Setup
+1. ```git clone https://github.com/ravil-gasanov/pygame-2d-space-shooter.git```
+2. Use _uv_ to create a virtual environment (venv) and install the dependencies: ```uv sync```
+3. Run the game: ```uv run space_shooter```
+
+## How to Play
+1. Use arrow keys to fly
+2. Press spacebar to shoot
+3. Press escape to quit
 
 The game is best enjoyed on a 16:9 display, full screen.
 
-![screenshot](assets/screenshot.png)
+![screenshot](screenshot.png)

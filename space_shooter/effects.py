@@ -8,7 +8,7 @@ class Explosion(pygame.rect.Rect):
         self.left, self.top, self.width, self.height = left, top, 100, 100
         super().__init__(self.left, self.top, self.width, self.height)
 
-        filename = 'sprites/explosion/explosion_{}.png'
+        filename = 'assets/sprites/explosion/explosion_{}.png'
         self.NUM_OF_SPRITES = 3
         self.sprites = []
         self.current_sprite_idx = 0

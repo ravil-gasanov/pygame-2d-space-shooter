@@ -15,7 +15,7 @@ class Player(pygame.rect.Rect):
         self.SPEED = 10
         self.missile_side = -1
 
-        filename = 'sprites/jet/jet_{}.png'
+        filename = 'assets/sprites/jet/jet_{}.png'
         self.NUM_OF_SPRITES = 4
         self.sprites = []
         self.current_sprite_idx = 0
